@@ -1,0 +1,16 @@
+{
+    "Id": "e29844c5-10eb-44a5-a0a9-b922b1cdec9b",
+    "FullName": "Seun Daniel Omatsola",
+    "EmailAddress": "seun@gmail.com",
+    "MobileNumber": "08163214714",
+    "Password": "7676aaafb027c825bd9abab78b234070e702752f625b752e55e55b48e607e358",
+    "IsActive": false,
+    "IsAdmin": true,
+    "Age": 100,
+    "Created_at": "2021-07-29T14:23:17.6712259+01:00"
+}
+
+{"Id":"8128de72-8bec-4ad7-b229-f36fdde235b0","FullName":"Seun Daniel Omatsola","EmailAddress":"seun@gmail.com","MobileNumber":"08163214714","Password":"9e84313333adf47559fc1b7acdb32005fb081b4637c8d29ee3344edc54230aa4","IsActive":true,"IsAdmin":false,"Age":33,"Created_at":"2021-07-31T02:50:54.6721195+01:00"}
+{"Id":"7cb877b3-52f4-45f4-be76-87c43cf73e6c","FullName":"Christy Olaitan","EmailAddress":"christy@gmail.com","MobileNumber":"08033655089","Password":"f44a5287103ca5d2f489ff611ad6e37788380e027c87014aa49de47b7fb30650","IsActive":true,"IsAdmin":false,"Age":31,"Created_at":"2021-08-01T12:51:15.124448+01:00"}
+{"Id":"dd0d1118-e97a-45fc-b284-3a4f0859b6bd","FullName":"Angelo Akuma","EmailAddress":"angelo@gmail.com","MobileNumber":"089685646463","Password":"e702effa5085238795e98b87e222408c17f8f7e615ff237f761f7fc5538c08aa","IsActive":true,"IsAdmin":false,"Age":88,"Created_at":"2022-03-13T13:24:13.9771539+01:00"}
+{"Id":"9cfed56f-307a-4c4a-bcd8-a2050c1b11ec","FullName":"Chisom Okon","EmailAddress":"chisom@gmail.com","MobileNumber":"08177657536","Password":"a00f6c002d251fb9e8bdc814c35ea1498ff1d82effe261117eff3e7447775795","IsActive":true,"IsAdmin":false,"Age":88,"Created_at":"2022-03-14T09:59:27.7666232+01:00"}

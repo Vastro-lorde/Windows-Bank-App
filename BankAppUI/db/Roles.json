@@ -1,0 +1,19 @@
+{
+    "Id": 1,
+    "RoleName": "Admin",
+    "Description": "For Admin only"
+
+}
+{
+    "Id": 2,
+    "RoleName": "Staff",
+    "Description": "For Staff only"
+
+}
+
+{
+    "Id": 3,
+    "RoleName": "Customer",
+    "Description": "For Customer only"
+
+}
